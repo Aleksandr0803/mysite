@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+ h1 {
+   background-color: orangered;
+   text-align: center;
+   border:  orangered;
+   padding: 25px 25px 25px 25px;
+ }
+
+h2 {
+ font-size: 25px;
+ background-color: orangered;
+ text-align: center;
+}
+
+main {
+background-color: palegreen;
+  
+}
+
+footer {
+  background-color: palegreen;
+}
